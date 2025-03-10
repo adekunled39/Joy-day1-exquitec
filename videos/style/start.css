@@ -1,0 +1,65 @@
+h1{
+    color: red;
+}
+
+.main-content{
+    display: flex;
+}
+
+.section2{
+    display: flex;
+}
+
+.main-content > .cont1, .cont2, .cont3{
+    background-color: rgb(10, 30, 100);
+    margin: 3px 3px 3px 3px;
+    padding: 2px 2px 2px 2px;
+}
+/* .cont1{
+    width: 350px;
+    float: left;
+    background-color: rgb(45, 16, 100);
+    color: white;
+    margin: 5px 5px 5px 5px;
+    padding:0px 3px 3px 3px;
+}
+.cont2{
+    width: 350px;
+    float: left;
+    background-color: rgb(45, 16, 100);
+    color: white;
+    margin: 5px 5px 5px 5px;
+    padding:0px 3px 3px 3px;
+}
+.cont3{
+    width: 350px;
+    float: left;
+    background-color: rgb(45, 16, 100);
+    color: white;
+    margin: 5px 5px 5px 5px;
+    padding:0px 3px 3px 3px;
+}
+.cont4{
+    width: 350px;
+    float: left;
+    background-color: rgb(45, 16, 100);
+    color: white;
+    margin: 5px 5px 5px 5px;
+    padding:0px 3px 3px 3px;
+}
+.cont5{
+    width: 350px;
+    float: left;
+    background-color: rgb(45, 16, 100);
+    color: white;
+    margin: 5px 5px 5px 5px;
+    padding:0px 3px 3px 3px;
+}
+.cont6{
+    width: 350px;
+    float: left;
+    background-color: rgb(45, 16, 100);
+    color: white;
+    margin: 5px 5px 5px 5px;
+    padding:0px 3px 3px 3px;
+} */
